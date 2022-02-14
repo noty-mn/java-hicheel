@@ -24,6 +24,19 @@
 
 // ternary operator 
 // num < 0 ? console.log('sorog') : console.log ("eyreg");
+// ? - if : - else
 
-//§§ logic
-// num < 0 §§ console.log("sotog"); 
+//§§ logic react deer hereglegdej bolno oo 
+//num < 0 §§ console.log("sorog"); 
+//§§ - if statement
+
+//string methods
+
+var str = "this is dummy string";
+//index - 0, 1 , 2
+//charAt(index)
+//slice (startIndex , endIndex)
+//trim() iluu hesgiig tastana
+
+//davtalt sudalj irne 
+//daalgavar : ner oruulaad, buh egshig usguudiig consoled hevlene aeiou
