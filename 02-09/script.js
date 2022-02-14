@@ -13,10 +13,17 @@
 
 //console.log(isTrue)
 
-var x = +prompt("too oruulna")
-if(x) {
-    var asd = true; 
-} else {
-    asd = false;
-}
-console.log(asd);
+//var number = +prompt('too');
+
+//if(Math.sign(number) === 1){
+    //var number = ("eyreg");
+//}else if(Math.sign(number) === -1){
+   // var number = ("sorog");
+//}
+//console.log(number)
+
+// ternary operator 
+// num < 0 ? console.log('sorog') : console.log ("eyreg");
+
+//§§ logic
+// num < 0 §§ console.log("sotog"); 
