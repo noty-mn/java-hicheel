@@ -32,7 +32,7 @@
 
 //string methods
 
-var str = "this is dummy string";
+//var str = "this is dummy string";
 //index - 0, 1 , 2
 //charAt(index)
 //slice (startIndex , endIndex)
@@ -40,3 +40,34 @@ var str = "this is dummy string";
 
 //davtalt sudalj irne 
 //daalgavar : ner oruulaad, buh egshig usguudiig consoled hevlene aeiou
+
+
+//02-18
+
+
+//1. 100 hurtelh toonuudaas buh anhni toonuudiin nillberiig ol.
+//2. 100 hurtelh toonuudaas buh 7-d huvaagdah toonuudiin niilber. 
+//3. garaas too useg holildson text ogogdson bol, tuhain textiin too bolon usguudiig salgaj, tus tusad ni string bolgoj hadgal.
+//jishee: d2slkfjeun23jnf3i2ufnn23ufnkjw
+//4. garaas too ogogdson bol tuhain tooni suuleesee 2 dahi tsifr ymar too baigaag ol.
+//5. garaas ug ogogdson bol, tuhain ugend davtagdahgui toogoor heden shirheg egshig useg baigaag ol.
+
+
+
+//function anhnii(too) {
+//    if(too < 2) return false;
+//    for(var i = 2; i < too; i++) {
+//        if(too % i ==0)
+//            return false; 
+//    }
+//    return true;
+//}
+//for (var i = 0; i < 100; i++){
+//    if(anhnii(i)) console.log(i);
+//}
+
+
+for (var i=1; i <= 100; i++){
+if (i % 7 == 0)
+console.log(i);
+}
