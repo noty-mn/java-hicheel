@@ -67,7 +67,82 @@
 //}
 
 
-for (var i=1; i <= 100; i++){
-if (i % 7 == 0)
-console.log(i);
-}
+//for (var i=1; i <= 100; i++){
+//if (i % 7 == 0)
+//console.log(i);
+//}
+
+// non primitive data types in js 
+// array, object, /regexp/ - data structure 
+
+//var massiv = new Array(123, 34 ,56);
+// []
+//var massiv1 = [123, "ewfbiuwef", 213, "aufiqwbf", true];
+//var nestedMassiv = [[213, 2131,123 ]["asudhiqnwu", 12339, "duqdisamd"]]
+//massiv1[4] = "augment"; // massiv aas solih 
+// push - hamgiin suuld element nemj ogoh 
+// pop - hamgiin suuliin elementiig ustgah
+// shift - hamgiin ehnii elementiig ustgah 
+// unshift - hamgiin ehend element nemeh 
+// slice - todorhoi hesgiig tasdaj avah
+// splice - dundaas n todorhoi hesgiig ustgah 
+// reverse - ogogdluudiin bairlaliig urvuu bolgoh
+//split - tasalj haruulah
+
+//massiv1.push("glhf");
+//massiv1.pop();
+
+//TypeScript deer adil massiv tai adil Tuple toog zaaj ogno oo
+//Tuple = massiv 
+
+
+//var tuple = [123, "yeti", true];
+
+//for (typeof tuple + Number){
+//    return true
+//}
+
+//... - spread operator
+//electronjs
+//nestjs
+//typeScript
+
+//var person1 = {
+//    name : 'tungalag', 
+//    age : '20', 
+//    email : 'tungalag@mail'
+//}
+//var person2 = {
+//    name : 'bilguun',
+//    age : '20',
+//    email : 'bilguun@mail'
+//}
+//var person = person1;
+//var members = [hun, person];
+//var email = +prompt(email);
+//for(var i = 0; i < members.length; i++);
+//    if(members[i].email == email){
+//        var ner = +prompt('solih ner ee oruulna uu');
+//        members[i].ner = ner;
+//    }
+
+//var mass =[12, 13, 14, 15];
+//for(var el of mass){
+//    console.log(el)
+//}
+
+//for(var el in person1){
+//    console.log(el)
+//}
+
+//var i = 0; 
+//while (i < 10){
+//    if(i%2 === 1){
+//        console.log(i)
+//    }
+//    i++;
+//}
+
+
+// 2-25
+
