@@ -146,3 +146,23 @@
 
 // 2-25
 
+// Function - programiin burfuulj bui jijig hesguudiig funkts gene ee 
+
+// funkts ni toforhoi ajil guitsetgeh esvel tootsoolol hiih zorilgotoi baij bolno.
+
+
+//global variable hezee ch duudaj ogch bolno oo.
+function myfunction() {
+    // local variable ene ni zovhon function dotor ajilna aa.
+    var x = 5;
+    var z = 12;
+    return x + z;
+}
+//Anonymous function return uyd hereglej bolno
+//      return function() {
+//    console.log(x, z)
+//}
+y = myfunction(); //17
+//myfunction();
+
+
