@@ -152,17 +152,50 @@
 
 
 //global variable hezee ch duudaj ogch bolno oo.
-function myfunction() {
+//function myfunction() {
     // local variable ene ni zovhon function dotor ajilna aa.
-    var x = 5;
-    var z = 12;
-    return x + z;
-}
+//    var x = 5;
+//    var z = 12;
+//    return x + z;
+//}
 //Anonymous function return uyd hereglej bolno
 //      return function() {
 //    console.log(x, z)
 //}
-y = myfunction(); //17
+//y = myfunction(); //17
 //myfunction();
 
+// parameter function 
+//function parameterfunc(arg) {
+//    return arg; 
+//}
 
+//callback function parameter helbereer ashiglagdaj bgaa function
+
+//function findDigit(num, i) {
+//    return Math.floor(Math.abs(num) / Math.pow(10, i)) % 10
+//}
+
+
+//1. Garaas too ogogdoson bol tuhain too hurtel niilberuudiig olj butsaa.
+//var x = prompt("too oruul");
+//for (var i=0; i <= x; i++){
+//    console.log(i);
+//}
+
+//2.
+//var x = prompt("suuri");
+//var y = prompt("ondor");
+//var e = x * y;
+//var Area = e / 2;
+//console.log(Area);
+
+//3.
+//var BooleanUtga = [true, false, true, true]{
+//    for (let i = 0; element < array.length; element++) {
+//        const element = array[element];        
+//    } BooleanUtga.filter(e => e === 1);
+//}
+
+//4. 
+//
