@@ -178,10 +178,10 @@
 
 
 //1. Garaas too ogogdoson bol tuhain too hurtel niilberuudiig olj butsaa.
-var x = prompt("too oruul");
-for (var i=0; i <= x; i++){
-    console.log(i);
-}
+//var x = prompt("too oruul");
+//for (var i=0; i <= x; i++){
+//    console.log(i);
+//}
 
 //2.
 //var x = prompt("suuri");
@@ -197,5 +197,5 @@ for (var i=0; i <= x; i++){
 //    } BooleanUtga.filter(e => e === 1);
 //}
 
-//4. 
+//3.02
 //
