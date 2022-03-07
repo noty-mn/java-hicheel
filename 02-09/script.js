@@ -204,4 +204,32 @@
 //    while 
 //}
 
-4.23
+//spaggethi code - neg funkts evderehed code ter chigtee ajillahgui baihiig helne ee.
+
+//function test(x){
+//    console.log(x);
+//}
+
+//function makeArray(len){
+//    var arr = [];
+//
+//    for (var i = 0; i < len; i++){
+//        arr.push(Math.floor(Math.random() * 100) + 1);
+//    }
+//
+//    return arr; 
+//}
+
+// higher order function 
+// filter , map , sort , reduce , find , findindex...
+
+//var x = [12, 13, 13, 14 ,15 ,16 , 17, 18];
+
+//var y = x.filter(function(el){
+//    return el < 10
+//});
+
+//x.forEach(function(el){
+//    el % 2 === 0 §§ console.log(el)
+//});
+
