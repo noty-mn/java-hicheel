@@ -197,9 +197,11 @@
 //    } BooleanUtga.filter(e => e === 1);
 //}
 
-var l1 = [8, 8, 9, 0, 0, 2, 5];
-var l2 = [9, 1, 3, 5, 6, 7, 8];
-var addTwoNumbers = function(_l1, _l2) {
-    int carry = 0;
-    while 
-}
+//var l1 = [8, 8, 9, 0, 0, 2, 5];
+//var l2 = [9, 1, 3, 5, 6, 7, 8];
+//var addTwoNumbers = function(_l1, _l2) {
+//    int carry = 0;
+//    while 
+//}
+
+4.23
